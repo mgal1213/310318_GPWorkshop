@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{347AF3DE-045F-B810-76D6-834BB7204CDA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/BehaviourMachine/Wrapper/ActionState.cs">
+    <Files>
+      <File FileName="Assets/Plugins/BehaviourMachine/Wrapper/ActionState.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
